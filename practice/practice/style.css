@@ -1,0 +1,31 @@
+body {
+    height: 100%;
+    width: 100%;
+    font-size: 20px;
+}
+#H{
+    height: 20%;
+    padding: 10px 10px 10px 10px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+#content{
+    float: left;
+    padding: 10px 10px 10px 10px;
+    color: white;
+}
+form {
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    color: black;
+}
+h3 {
+    display: inline-block;
+    margin: 0px;
+}
+#H img {
+    float: left;
+    margin-left: 10px;
+}
